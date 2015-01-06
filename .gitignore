@@ -184,3 +184,5 @@ FakesAssemblies/
 
 # Cambios específicos
 desktop.ini
+Servicios/Servicios.csproj
+UIWeb/UIWeb.vbproj
